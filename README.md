@@ -1,2 +1,2 @@
-# todolist
-A daily ToDo reminder.
+# ToDoList
+ A daily To Do reminder
